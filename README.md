@@ -1,5 +1,4 @@
 # sql_challenge
-Module 9 SQL Challenge
 
 EmployeeSQL folder contains source data csv file and SQL files for Module 9 Challenge.
 
