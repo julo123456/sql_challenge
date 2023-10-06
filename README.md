@@ -1,6 +1,6 @@
 # sql_challenge
 
-EmployeeSQL folder contains source data csv file and SQL files for Module 9 Challenge.
+EmployeeSQL folder contains source data csv file and SQL files.
 
 Employee.sql file is a composite file containing table schema and queries.
 
