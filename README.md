@@ -2,7 +2,7 @@
 
 EmployeeSQL folder contains source data csv file and SQL files.
 
-Employee.sql file is a composite file containing table schema and queries.
+Employee.sql file is a composite file containing table schema and queries folowed by Entity Relational Digram (ERD) construction.
 
 Employee_Table.sql is the table schema only sql file.
 
